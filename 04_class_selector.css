@@ -1,0 +1,12 @@
+
+.bold{
+  font-size: larger;
+  font-style: oblique;
+  color: rgb(205, 9, 223);
+  font-variant: initial;
+}
+.font{
+    font-weight: 100;
+    color: rgb(252, 9, 9);
+    font-style: calc();
+}

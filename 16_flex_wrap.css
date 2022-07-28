@@ -1,0 +1,42 @@
+#container{
+    height: 100vw;
+    width: 100vh;
+    background-color: rgb(141, 116, 116);
+    display: flex;
+    flex-direction: column;
+     flex-wrap:wrap-reverse; 
+}
+
+#container div{
+    height: 200px;
+    width: 200px;
+}
+
+#div1{
+    background-color: cyan;
+
+}
+
+
+#div2{
+    background-color: red;
+}
+
+
+#div3{
+    background-color: grey;
+
+}
+
+#div4{
+    background-color: maroon;
+
+}
+
+#div5{
+    background-color: orange;
+}
+#div6{
+    background-color: rgb(245, 10, 167);
+}
+

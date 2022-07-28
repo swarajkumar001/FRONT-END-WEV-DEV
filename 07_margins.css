@@ -1,0 +1,32 @@
+html {
+    font-size: 30px;
+}
+
+#outer-div1{
+    height: 200px;
+    width: 200px;
+    background-color: #393a7b;
+    /*margin: 4px 10px 20px 30px;*/
+    /*margin: auto;*/
+    /*margin-top: 10px;*/
+    margin-bottom: 10px;
+}
+
+
+#inner-div1{
+    height: 50%;
+    width: 50%;
+    background-color: rgb(255, 230, 0);
+    margin-bottom: 13px;
+}
+
+#outer-div2{
+    height: 200px;
+    width: 200px;
+    
+    background-color: orange;
+    margin-top: 10px;
+    margin-top: 20px; /* vertical margins collapse....no effect would be reflect */
+
+
+}

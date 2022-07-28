@@ -1,0 +1,56 @@
+/* #div1{
+
+
+    height: 100px;
+     /* 100px;
+     */
+/*     
+    width: 100px;
+    background-color:#15d515;
+}
+/* #div2{ 
+     height: 60%; /* this percentae is wit respect to parrent div */
+    /* width: 50%;
+    background-color: aqua;
+}  */ 
+html{
+    font-size: 30px;
+}
+
+#div1{
+
+    height:75vh; /*  //vh view height  */
+    /*4rem*/
+    /*200px;*/
+    width: 50vw; /* //vw view width... */
+    /*6rem;*/
+    /*300px;*/
+    background-color: #10e91b;
+    /*rgba(25,126,200, 1);*/
+    /*#393a7b;*/
+ border-left: 4px;
+    border-style: dashed;
+    border-color: rgb(3, 195, 243) ;
+
+   
+}
+
+
+#div2{
+    height: 50%;
+/*    height: 100px;*/
+    width: 50%;
+/*    width: 150px;*/
+    background-color: cyan;
+    border-left: 4px;
+    border-style: dashed;
+    border-color: rgb(28, 228, 105) ;
+
+}
+#P1{
+    border: 2px solid red;
+    background-color: rgb(226, 13, 13);
+    border-left: 4px;
+    border-style: dashed;
+    border-color: red ;
+}
